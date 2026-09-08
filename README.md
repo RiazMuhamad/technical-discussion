@@ -6,3 +6,8 @@ This is a demo repo for sharing ideas around communication
 * one
 * two
 * three
+
+
+## Gist
+
+this is a good example of [mycode](https://gist.github.com/RiazMuhamad/2bc9620d8913ec028eb7055615cba002)
